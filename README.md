@@ -25,3 +25,8 @@ $ npx cypress run
 ```
 $ npx cypress open
 ```
+
+## Explanation of what I did
+
+ - I did a sample CRUD to demonstrate the API automation with Cypress.
+ - I used the Cypress because it`s a e2e tool, we can automate the front, the API and check the database only with Cypress with a sample language.
